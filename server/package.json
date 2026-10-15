@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "DevPrep is an AI-powered interview preparation platform that analyzes resumes against job descriptions to identify skill gaps and generate role-specific interview questions. It provides personalized day-wise study plans to help users prepare effectively for technical and behavioral interviews.",
+  "keywords": [
+    "Resume",
+    "Analysis"
+  ],
+  "homepage": "https://github.com/basharahmadkhan10/DevPrep-v2#readme",
+  "bugs": {
+    "url": "https://github.com/basharahmadkhan10/DevPrep-v2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basharahmadkhan10/DevPrep-v2.git"
+  },
+  "license": "ISC",
+  "author": "Bashar Ahmad Khan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
